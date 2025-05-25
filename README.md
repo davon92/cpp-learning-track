@@ -11,7 +11,7 @@ Welcome! This repository is a personal roadmap and showcase of my journey to bec
 | Milestone | Project | Key Concepts | GitHub Link |
 |----------:|---------|--------------|-------------|
 | 🔄 01 | **CLI Calculator** | Syntax, functions, control flow | [View Repo](https://github.com/your-username/cpp-calculator) |
-| 🔄 02 | **Text Adventure Game** | Classes, structs, state machine | [View Repo](https://github.com/your-username/text-adventure) |
+| 🔄 02 | **Text Adventure Game** | Classes, structs, state machine | *(Coming Soon)* |
 | 🔄 03 | **Banking System** | OOP, smart pointers, file I/O | *(Coming Soon)* |
 | 🔄 04 | **Custom Vector** | Templates, memory management | *(Coming Soon)* |
 | 🔄 05 | **Job System** | `std::thread`, concurrency, queue | *(Coming Soon)* |
