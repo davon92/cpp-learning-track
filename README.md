@@ -52,7 +52,3 @@ This repo is my structured way to:
 Feel free to fork or follow along. Feedback is welcome!
 
 ---
-
-## 🧵 Related Threads
-- [Learning Tracker in Notion](#)
-- [Blog Posts](#)
