@@ -10,7 +10,7 @@ Welcome! This repository is a personal roadmap and showcase of my journey to bec
 ✅
 | Milestone | Project | Key Concepts | GitHub Link |
 |----------:|---------|--------------|-------------|
-| 🔄 01 | **CLI Calculator** | Syntax, functions, control flow | [View Repo](https://github.com/davon92/cpp-calculator) |
+| ✅ 01 | **CLI Calculator** | Syntax, functions, control flow | [View Repo](https://github.com/davon92/cpp-calculator) |
 | 🔄 02 | **Text Adventure Game** | Classes, structs, state machine | *(Coming Soon)* |
 | 🔄 03 | **Banking System** | OOP, smart pointers, file I/O | *(Coming Soon)* |
 | 🔄 04 | **Custom Vector** | Templates, memory management | *(Coming Soon)* |
