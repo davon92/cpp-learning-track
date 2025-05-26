@@ -24,7 +24,7 @@ Welcome! This repository is a personal roadmap and showcase of my journey to bec
 
 - Language: C++17 → C++20
 - Build System: CMake
-- IDE: Visual Studio / CLion / VS Code
+- IDE: VS Code
 - Debugging: GDB, Valgrind, ASAN
 - Tests: GoogleTest (for Phase 2+)
 
