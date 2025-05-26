@@ -35,7 +35,7 @@ Welcome! This repository is a personal roadmap and showcase of my journey to bec
 | Date | Milestone | Notes |
 |------|-----------|-------|
 | 2025-05-25 | Created repo | Started meta-repo and roadmap |
-| TBD | Project 01 | Calculator: First project complete! |
+| 2025-05-25 | Project 01 | Calculator: First project complete! |
 | TBD | Project 02 | Built text adventure + file save system |
 
 > See `milestone-roadmap.md` for a more detailed reflection journal.
